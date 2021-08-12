@@ -1,3 +1,4 @@
 plugins {
-    id("org.example.greeting")
+    // id("org.example.greeting")
+    id("groovyscript")
 }
